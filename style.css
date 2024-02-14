@@ -1,0 +1,26 @@
+body{
+    background-image: url(./360_F_524875485_UJDnKFte1b5uqCbhC9p4bH4ySINhjL6I.jpg);
+}
+
+.wrapper {
+    position: relative;
+    left: 528px;
+
+}
+  .wrapper p {
+    position: relative;
+    display: inline-block;
+    color: #f55050;
+    font-size: 98px;
+    margin-bottom: 120px;
+  }
+.wrapper button{
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    width: 80px;
+    
+    border-radius: 8px;
+    border-color: blue black red orange;
+}
+  
